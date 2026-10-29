@@ -20,6 +20,8 @@ format:
 
 This document walks through the Lecture 1 queries in Google BigQuery using the public GA4 sample ecommerce dataset (`bigquery-public-data.ga4_obfuscated_sample_ecommerce`). The dataset holds obfuscated Google Analytics 4 event data from the Google Merchandise Store, stored as one table per day. Each query below is shown in a SQL block, followed by a plain explanation of what it does, a screenshot of its output, and a short note on what the output shows.
 
+**Links:** [GitHub Pages](https://naran115.github.io/bigquery-sql-lecture1/Naranjo,%20Aldo-IC-CP-W04-BigQuery-Lecture1.html) | [GitHub Repo](https://github.com/naran115/bigquery-sql-lecture1)
+
 # Lecture 1 Queries
 
 ## SELECT, FROM, and LIMIT
